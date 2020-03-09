@@ -1,4 +1,4 @@
-# TRAINS Server for Kubernetes Clusters Using Helm
+# Trains Server for Kubernetes Clusters Using Helm
 
 ##  Auto-Magical Experiment Manager & Version Control for AI
 
@@ -10,12 +10,12 @@
 
 The **trains-server** is the backend service infrastructure for [TRAINS](https://github.com/allegroai/trains).
 It allows multiple users to collaborate and manage their experiments.
-By default, **TRAINS** is set up to work with the **TRAINS** demo server, which is open to anyone and resets periodically. 
-In order to host your own server, you will need to install **trains-server** and point **TRAINS** to it.
+By default, **Trains** is set up to work with the **Trains** demo server, which is open to anyone and resets periodically. 
+In order to host your own server, you will need to install **trains-server** and point **Trains** to it.
 
 **trains-server** contains the following components:
 
-* The **TRAINS** Web-App, a single-page UI for experiment management and browsing
+* The **Trains** Web-App, a single-page UI for experiment management and browsing
 * RESTful API for:
     * Documenting and logging experiment information, statistics and results
     * Querying experiments history, logs and results
